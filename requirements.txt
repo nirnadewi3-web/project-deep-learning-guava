@@ -1,0 +1,37 @@
+# ============================================================
+# Requirements untuk Aplikasi Deteksi Penyakit Jambu (Guava)
+# Model: VGG16 / MobileNetV2 / MobileNetV3
+# Deploy: Streamlit
+# ============================================================
+
+# --- Web App ---
+streamlit>=1.32.0
+
+# --- Deep Learning ---
+tensorflow>=2.15.0
+keras>=2.15.0
+
+# --- Image Processing ---
+Pillow>=10.0.0
+pillow-heif>=0.16.0
+
+# --- Data & Numerik ---
+numpy>=1.24.0
+
+# --- Visualisasi ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Machine Learning Metrics ---
+scikit-learn>=1.3.0
+
+streamlit>=1.32.0
+tensorflow>=2.13.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+#link dataset
+https://drive.google.com/drive/folders/1x_SAYaetjTASjGJP7aXYu1XHl6L0Kqv5?usp=sharing
+
+#link model
+https://drive.google.com/drive/folders/1KiXRX0cJ74__8-wvRy-c4D96r-1EMq3Q?usp=sharing
