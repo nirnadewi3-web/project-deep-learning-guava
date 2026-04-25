@@ -29,9 +29,3 @@ streamlit>=1.32.0
 tensorflow>=2.13.0
 numpy>=1.24.0
 Pillow>=10.0.0
-
-#link dataset
-https://drive.google.com/drive/folders/1x_SAYaetjTASjGJP7aXYu1XHl6L0Kqv5?usp=sharing
-
-#link model
-https://drive.google.com/drive/folders/1KiXRX0cJ74__8-wvRy-c4D96r-1EMq3Q?usp=sharing
