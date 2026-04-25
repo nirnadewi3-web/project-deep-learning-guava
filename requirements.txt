@@ -1,18 +1,6 @@
-# --- Web App ---
 streamlit
-
-# --- Deep Learning ---
 tensorflow==2.15.0
-
-# --- Image Processing ---
-Pillow
-
-# --- Data ---
 numpy
-
-# --- Visualisasi ---
+Pillow
 matplotlib
-seaborn
-
-# --- ML ---
 scikit-learn
